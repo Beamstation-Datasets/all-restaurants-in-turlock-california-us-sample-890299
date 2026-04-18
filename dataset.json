@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Turlock, California. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Turlock, California, US",
-  "export_job_id": "30bb9a72-765a-4609-b33e-17e801d25342",
+  "export_job_id": "4bbb367d-1c81-4c19-8448-fc0c41ba5bd7",
   "github_org": "Beamstation-Datasets",
   "id_short": 890299,
   "location_name": "Turlock",
   "location_type": "city",
   "repo_name": "all-restaurants-in-turlock-california-us-sample-890299",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/890299/beamstation_890299_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 14.43,
+  "sample_pct": 9.79,
   "sample_records": 14,
   "sample_sha256": "36ac86661ce80dcd2ce2fd7c50098395ad1fcc5082e63af90b00707e5a3e8d25",
   "sample_size_bytes": 62392,
-  "total_records": 97,
-  "updated_at": "2026-03-31T15:27:04.881558+00:00"
+  "total_records": 143,
+  "updated_at": "2026-04-14T16:12:41.075124+00:00"
 }
