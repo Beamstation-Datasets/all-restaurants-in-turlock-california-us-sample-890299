@@ -9,9 +9,9 @@
 | Dataset ID | `890299` |
 | Location | Turlock |
 | Category | Restaurants |
-| Full dataset size | 97 records |
-| Free sample size | 14 records (14.43%) |
-| Last export | 2026-03-31T15:27:04.881558+00:00 |
+| Full dataset size | 143 records |
+| Free sample size | 14 records (9.79%) |
+| Last export | 2026-04-14T16:12:41.075124+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-turlock-california-us-sample-890299/releases/download/sample-latest/beamstation_890299_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
