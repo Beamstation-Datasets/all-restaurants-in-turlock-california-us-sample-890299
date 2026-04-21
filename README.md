@@ -1,6 +1,6 @@
 # All Restaurants in Turlock, California, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `890299` |
 | Location | Turlock |
 | Category | Restaurants |
-| Full dataset size | 143 records |
-| Free sample size | 14 records (9.79%) |
-| Last export | 2026-04-14T16:12:41.075124+00:00 |
+| Full dataset size | 109 records |
+| Free sample size | 10 records (9.17%) |
+| Last export | 2026-04-21T17:33:01.611143+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-turlock-california-us-sample-890299/releases/download/sample-latest/beamstation_890299_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
