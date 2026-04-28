@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8540a35b-8dd9-418c-862b-4abecfc3b232",
+  "export_job_id": "f882971e-9977-46b1-b39e-e02016b24725",
   "id_short": 890299,
-  "published_at": "2026-04-21T19:56:15Z",
+  "published_at": "2026-04-28T19:31:19Z",
   "repo_name": "all-restaurants-in-turlock-california-us-sample-890299",
   "sample_asset_name": "beamstation_890299_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/890299/beamstation_890299_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "658e0bbcea651b4682d1e0aedf221a2ed5d3e41877765014610d3aa3df09cdfe",
-  "sample_size_bytes": 44461,
-  "total_records": 109
+  "sample_records": 14,
+  "sample_sha256": "363a619e1f4a6c65cb04e5eaef091ccda8d03884e1ad43f69bf591f919d959d4",
+  "sample_size_bytes": 65156,
+  "total_records": 144
 }
